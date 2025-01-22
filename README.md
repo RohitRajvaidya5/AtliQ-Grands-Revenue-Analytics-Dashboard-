@@ -64,5 +64,6 @@ The repository contains the following files:
 ## 🚀 How to Use This Project  
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/your-username/AtliQ-Grands-Revenue-Analytics.git](https://github.com/RohitRajvaidya5/AtliQ-Grands-Revenue-Analytics-Dashboard-.git)
+   git clone https://github.com/RohitRajvaidya5/AtliQ-Grands-Revenue-Analytics-Dashboard-.git
+   ```
 
