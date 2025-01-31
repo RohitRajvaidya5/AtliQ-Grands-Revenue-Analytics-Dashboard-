@@ -16,6 +16,12 @@ This project involves creating a Power BI dashboard that provides insights into 
 
 ---
 
+## Access the Dashboard
+
+You can view the interactive Power BI dashboard using the [Public Link](https://app.powerbi.com/view?r=eyJrIjoiN2YyNzM0OGEtNjNkYS00YjM2LTkyMGUtM2ZiZjZjNmQ0M2MzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
 ## 🎯 Project Objectives  
 1. **Create Metrics**  
    - Develop key performance metrics based on the provided metric list.  
